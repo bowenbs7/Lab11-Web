@@ -1,3 +1,12 @@
 h1 {
     color: #e84a27;
 }
+p {
+    color: blue;
+    font-style: olique;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
